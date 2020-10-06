@@ -4,6 +4,7 @@ This is very old project I made just to learn how to set up connection between M
 The project is made using NetBeans IDE.
 
 When we work on a Relational Database , DBMS has some commands that helps a user to interact with the database.Let me add some of those commands.
+
 1.) DDL commands (Data Definition Language) :- These commands are used to create tables, make some changes (update) tables , delete tables etc.The commands of DDL include:-
 A. Create     B.) Alter    C.) Truncate    D.) Rename      E.) Drop
 
